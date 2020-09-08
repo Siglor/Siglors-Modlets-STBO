@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Enhanced Turrets" />
+		<Description value="Adds a vast selection of overpowered turrets to the game" />
+		<Author value="Siglor" />
+		<Version value="1" />
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>
